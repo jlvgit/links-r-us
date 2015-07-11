@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'simple_form'  
+gem 'acts_as_votable'
+gem 'bootstrap-sass'
 gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
